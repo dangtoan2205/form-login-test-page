@@ -30,7 +30,7 @@ Try to update this requirement to:
             .....
         },
 
-- Run __composer install__    OR       - Run __composer update__
+- Run __composer install__    OR     __composer update__
 - Run __php artisan key:generate__
 - Run __php artisan migrate__
 - That's it: launch the main URL.
@@ -50,3 +50,10 @@ Basically, feel free to use and re-use any way you want.
 - FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
 - Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
 - Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+
+## Github
+git config --global user.email "you@example.com"
+git init
+git add .
+git commit -m "Ok"
+git push origin main

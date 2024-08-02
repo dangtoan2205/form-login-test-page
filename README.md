@@ -52,8 +52,8 @@ Basically, feel free to use and re-use any way you want.
 - Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
 
 ## Github
-git config --global user.email "you@example.com"
-git init
-git add .
-git commit -m "Ok"
-git push origin main
+- __git config --global user.email "you@example.com"__
+- __git init__
+- __git add .__
+- __git commit -m "Ok"__
+- __git push origin main__
